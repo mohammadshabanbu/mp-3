@@ -69,7 +69,6 @@ const StyledNav = styled.nav`
   a {
     padding: 1% 2%;
     font-size: calc(2px + 1.5vw);
-    text-decoration: none;
   }
 
   @media screen and (max-width: 1000px) {

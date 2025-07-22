@@ -37,7 +37,7 @@ const Button = styled.button`
     border: 5px solid antiquewhite;
     background-color: darkgoldenrod;
     color: white;
-    font-size: 1rem;
+    font-size: calc(14px + 0.5vw);
 `;
 
 export default function Prj() {

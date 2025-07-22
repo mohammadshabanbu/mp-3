@@ -23,6 +23,7 @@ export default function Edu() {
         <Main>
             <h1 id="page">Education</h1>
 
+
             <div id="internal-info">
                 <Section>
                 <InfoBox>

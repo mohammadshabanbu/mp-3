@@ -36,7 +36,7 @@ const StyledHome = styled.main`
     }
 
     @media screen and (max-width: 1000px) {
-        width: 95%;
+        width: 100%;
         #info {
             flex-direction: column;
             text-align: center;
