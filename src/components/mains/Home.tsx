@@ -53,7 +53,7 @@ export default function Home() {
                 <h3 id="main-title">Home</h3>
 
                 <div id="info">
-                    <img id="profile-image" src="/public/profile.jpg" alt="Mohammad Shaban" />
+                    <img id="profile-image" src="/profile.jpg" alt="Mohammad Shaban" />
                     <h5>
                         I am currently an undergraduate student majoring in computer science at Boston University.<br />
                         I have a strong interest in web development, artificial intelligence, and data science.<br />
